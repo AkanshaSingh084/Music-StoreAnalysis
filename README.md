@@ -61,8 +61,4 @@ The project was successful in answering the set of questions about the store's b
 
 
 
-
-The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
-
-
 I hope this is helpful! -->
